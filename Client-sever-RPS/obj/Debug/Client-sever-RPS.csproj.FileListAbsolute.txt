@@ -1,0 +1,9 @@
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\bin\Debug\Client-sever-RPS.exe.config
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\bin\Debug\Client-sever-RPS.exe
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\bin\Debug\Client-sever-RPS.pdb
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\obj\Debug\Client-sever-RPS.csprojResolveAssemblyReference.cache
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\obj\Debug\Client_sever_RPS.Form1.resources
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\obj\Debug\Client_sever_RPS.Properties.Resources.resources
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\obj\Debug\Client-sever-RPS.csproj.GenerateResource.Cache
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\obj\Debug\Client-sever-RPS.exe
+D:\Lap_Trinh\Client-sever-RPS\Client-sever-RPS\obj\Debug\Client-sever-RPS.pdb
